@@ -1,0 +1,17 @@
+{
+    "hero": {
+        "greeting": "Welcome",
+        "introduction": "My name is Alan",
+        "img_profile": "https://lh3.googleusercontent.com/rRVmBOg0YGAHdxMcbd4fMax4XsqzxnoqLdNFIMx9BC7iZ2TiqqW1gkmm63XaUkNN5VAnGGMDbMXS7t4OrKFXYTae=s160-c",
+        "img_background": "https://lh3.googleusercontent.com/vzZhMB6JRhhZbaHkpv3HgS6xgaMf6X_GvBhm4eygies1GuPqFZjfwSgh_KlMFb6J3gah7AM7xiyuZWzpATdTuayQZG0"
+    },
+    "projects":{
+        "header": "My Projects",
+        "subheader": "Take a look at my most recent work"
+    },
+    "contact":{
+        "header": "Contact Me Anytime",
+        "subheader": "I can work for you."
+    }
+    
+}
